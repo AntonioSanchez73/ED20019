@@ -5,6 +5,8 @@ public class DNI {
 		String l = "TRWAGMYFPDXBNJZSQVHLCKE";
 		int n = 12345678;
 		char letra = l.charAt(n % 23);
+		//MANUÉ hfcgcfgjfcjgcfmhmhggvghvdrg
+		
 		System.out.println("La letra del DNI es " + letra);
 	}
 }
